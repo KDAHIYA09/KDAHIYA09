@@ -9,8 +9,8 @@
 - Dependency Injection: JSON,GSON,PICASSO 
 - Networking: Retrofit
 - Firebase: Authentication, Realtime Database, Cloud Messaging
-- third-Party Libraries: Provide a list of relevant third-party libraries you frequently work with.
-
+- third-Party Libraries
+  
 ## 🌱 I’m currently working on
 - Advanced android framework 
 - Kotlin
