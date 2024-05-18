@@ -13,7 +13,7 @@
   
 ## 🌱 I’m currently working on
 - Advanced android framework 
-- Kotlin
+- Flutter
 
 ## 📫 How to reach me 
 - Email: kdahiya296@gmail.com 
